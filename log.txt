@@ -1,0 +1,769 @@
+STARTING at: Thu Oct 24 08:38:18 CST 2013
+numero de componentes inicial: 652
+uri: /articles/news/2013_june_Subaru_may_sales_best_history/ **********  /article/news/2013_june_Subaru_may_sales_best_history/
+uri: /articles/news/2013_March_subaru_and_CenterforPetSafety/ **********  /article/news/2013_March_subaru_and_CenterforPetSafety/
+uri: /articles/news/2013_may_Subaru_rally_team_higgins/ **********  /article/news/2013_may_Subaru_rally_team_higgins/
+uri: /articles/news/2013_october_subaru_pet_safety/ **********  /article/news/2013_october_subaru_pet_safety/
+uri: /articles/chinese/dearsubaru/kristintaylor/ **********  /articles/chinese//dearsubaru/kristintaylor/
+uri: /articles/company/cpo_roadside_assistanc/ **********  /articles/company/cpo_roadsite_assistanc/
+uri: /articles/corporate_responsibility/subaru_community_involvement/ **********  /articles/corporate_responsibility/subaru_subaru_community_involvement/
+uri: /articles/drive/spr10_camp/ **********  /articles/drive/sum10_camp/
+uri: /articles/news/2009_october_positivesalesforseptember/ **********  /articles/news/2009_october_positivedalesforseptember/
+uri: /articles/news/2010_october_septembersalesrecord/ **********  /articles/news/2010_october_septembersalesrecords/
+uri: /articles/news/2011_march_advertising_research_foundation/ **********  /articles/news/2011_march_2011_march_advertising_research_foundation/
+uri: /articles/news/2011_october_performance_cars/ **********  /articles/news/2011_october_perfomance_cars/
+uri: /articles/news/2011_october_septembersalesrecord/ **********  /articles/news/2011_october_septembersalesreport/
+uri: /articles/news/2013_share_love_donations/ **********  /articles/news/2013_february_share_love_donations/
+uri: /articles/news/2013_february_share_love_donations/ **********  /articles/news/2013_share_love_donations/
+uri: /articles/news/2012_february_report_record/ **********  /articles/news2012_february_report_record/
+uri: /articles/programs/dogtested_community/ **********  /articles/programs/dogtested_content/
+uri: /articles/mysubaru/shop_new_subaru_03/ **********  /articles/shop_new_subaru_03/
+uri: /brz/content/brz_test_drive_pod/ **********  /brz/content/brz_tes_drivet_pod/
+uri: /components/7a/ **********  /components/7a_promo/
+uri: /disclaimer/ **********  /disclaimer/disclaimers/
+uri: /disclaimer/owners/mobile-internet/ **********  /disclaimer/owners/
+uri: /disclaimer/owners/ **********  /disclaimer/owners/mobile-internet/
+uri: /disclaimer/payments-financing/ **********  /disclaimer/payments_financing/
+uri: /engineering/electronics_bluetooth_type2_3b/ **********  /engineering/electronics_bluetooth_type2/
+uri: /engineering/electronics_internet_mobile/ **********  /engineering/internet_mobile/
+uri: /enthusiasts/badge-of-ownership/ **********  /enthusiasts/badge-of-ownerhip/
+uri: /enthusiasts/gear/top_dog/ **********  /enthusiasts/gear_top_dog/
+uri: /enthusiasts/ **********  /enthusiasts/index/
+uri: /events/02242012_100_aw/ **********  /events/02242012_100_aw_aaas/
+uri: /events/10042013_09240610042013_092406/ **********  /events/10042013_092406/
+uri: /events/2011_iceman_cometh_challenge/ **********  /events/iceman_cometh/
+uri: /events/ol_2010_leavenotrace/ **********  /events/ol_2010_leavenotracee/
+uri: /finance-center/commercial-leasing/big-business-fleet/ **********  /finance-center/big-business-fleet/
+uri: /finance-center/financial-tools/financial_options/fma/subaru_motor_customer/ **********  /finance-center/financial_tools/financial_options/fma/subaru_motor_customer/
+uri: /images/my09/colorchips/ **********  /images/my10/colorchips/
+uri: /images/my10/WRX/premium/gallery/colorization/ **********  /images/my10/WRX/limited/gallery/colorization/
+uri: /images/my10/WRX/premium/gallery/exterior/ **********  /images/my10/WRX/limited/gallery/exterior/
+uri: /images/my10/WRX/premium/gallery/interior/ **********  /images/my10/WRX/limited/gallery/interior/
+uri: /images/my10/WRX/premium/m_specialoffer_95x52/ **********  /images/my10/WRX/limited/m_specialoffer_95x52/
+uri: /images/my11/WRX/wrxl/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxlimited_4dr/m_specialoffer_95x52/
+uri: /images/my11/WRX/wrxl_5dr/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxlimited_5dr/m_specialoffer_95x52/
+uri: /images/my11/WRX/wrxp/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxpremium_4dr/m_specialoffer_95x52/
+uri: /images/my11/WRX/wrxp_5dr/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxpremium_5dr/m_specialoffer_95x52/
+uri: /images/my11/WRX/wrxsti/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxsti_4dr/m_specialoffer_95x52/
+uri: /images/my11/WRX/wrx/m_specialoffer_95x52/ **********  /images/my11/WRX/wrx_4dr/m_specialoffer_95x52/
+uri: /mobile/content/rotator/Special_Offers/ **********  /mobile/content/Special_Offers/
+uri: /mobile/content/vehicles/my11/legacy/compare/36rp/ **********  /mobile/content/vehicles/my11/legacy/compare/36rlp/
+uri: /mobile/content/vehicles/my12/legacy/compare/36rp/ **********  /mobile/content/vehicles/my12/legacy/compare/36rlp/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_1/ **********  /mobile/content/vehicles/my13/brz/accolades/acc1/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_2/ **********  /mobile/content/vehicles/my13/brz/accolades/acc2/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_3/ **********  /mobile/content/vehicles/my13/brz/accolades/acc3/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_4/ **********  /mobile/content/vehicles/my13/brz/accolades/acc4/
+uri: /mobile/content/vehicles/my13/forester/accolades/acc_1/ **********  /mobile/content/vehicles/my13/forester/accolades/acc1/
+uri: /mobile/content/vehicles/my13/forester/accolades/acc_2/ **********  /mobile/content/vehicles/my13/forester/accolades/acc2/
+uri: /mobile/content/vehicles/my13/forester/features/feature1/ **********  /mobile/content/vehicles/my13/forester/features/feature1 - Copy/
+uri: /mobile/content/vehicles/my13/forester/features/feature2/ **********  /mobile/content/vehicles/my13/forester/features/feature2 - Copy/
+uri: /mobile/content/vehicles/my13/legacy/accolades/acc_1/ **********  /mobile/content/vehicles/my13/legacy/accolades/acc1/
+uri: /mobile/content/vehicles/my13/legacy/accolades/acc_2/ **********  /mobile/content/vehicles/my13/legacy/accolades/acc2/
+uri: /mobile/content/vehicles/my13/outback/accolades/acc_1/ **********  /mobile/content/vehicles/my13/outback/accolades/acc1/
+uri: /mobile/content/vehicles/my13/outback/accolades/acc_2/ **********  /mobile/content/vehicles/my13/outback/accolades/acc2/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/accolades/acc_1/ **********  /mobile/content/vehicles/my13/xv-crosstrek/accolades/acc1/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/accolades/acc_2/ **********  /mobile/content/vehicles/my13/xv-crosstrek/accolades/acc2/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/compare/20il/ **********  /mobile/content/vehicles/my13/xv-crosstrek/compare/20il/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/compare/20ip/ **********  /mobile/content/vehicles/my13/xv-crosstrek/compare/20ip/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/ **********  /mobile/content/vehicles/my13/xv-crosstrek/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature1/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature1/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature2/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature2/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature3/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature3/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature4/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature4/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_1/ **********  /mobile/content/vehicles/my14/brz/accolades/acc1/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_2/ **********  /mobile/content/vehicles/my14/brz/accolades/acc2/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_3/ **********  /mobile/content/vehicles/my14/brz/accolades/acc3/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_4/ **********  /mobile/content/vehicles/my14/brz/accolades/acc4/
+uri: /mysubaru/articles/zenkai motorsports/ **********  /mysubaru/articles/zenkai_motorsports/
+uri: /owners/ **********  /owners/index/
+uri: /owners/resource-center/electronics/navigation/tomtom/ **********  /owners/resource-center/electronics/navigation/tomtom_audio_system/
+uri: /owners/resource-center/electronics/satellite/sirius-satellite/ **********  /owners/resource-center/electronics/satellite/sirius_satellite/
+uri: /owners/resource-center/electronics/satellite/xm-satellite/ **********  /owners/resource-center/electronics/satellite/xm_satellite/
+uri: /owners/resource-center/ **********  /owners/resource-center/index/
+uri: /owners/resource-center/vehicle_care_tips/posts/01162010_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/01162010_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/03052011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/03052011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/03212011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/03212011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/04082011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/04082011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/04202010_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/04202010_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/05122011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/05122011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/05232011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/05232011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/06022011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/06022011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/06122011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/06122011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/07142011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/07142011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/07152010_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/07152010_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/07302011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/07302011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/08102011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/08102011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/08252011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/08252011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/09182011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/09182011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/10232011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/10232011_0000/
+uri: /owners/resource-center/New_folder/ **********  /owners/resource-center/vehicle-care-tips/posts/10232011_0001/
+uri: /parts-service/ **********  /parts-service/index/
+uri: /publications/drive-performance/ **********  /publications/drive-perfomance/
+uri: /publications/ **********  /publications/index/
+uri: /rally/posts/07172010-0000/ **********  /rally/posts/07172010_0000/
+uri: /rally/posts/07272011_060000/ **********  /rally/posts/07272011_160000/
+uri: /rally/static/sponsors/ **********  /rally/static/sposors/
+uri: /ratingreview/motortrend/12imp/ **********  /ratingreview/awards/motortrend/12imp/
+uri: /ratingreview/awards/polk/polk_imp/11imp/ **********  /ratingreview/awards/polk/polk_imp//11imp/
+uri: /specials/national_finance_my13_xv/ **********  /specials/national_finance_my14_xv/
+uri: /static/2009award/ **********  /static/archive/2009award/
+uri: /static/2009award/css/ **********  /static/archive/2009award/css/
+uri: /static/2009award/images/ **********  /static/archive/2009award/images/
+uri: /static/vehicles/legacy/ **********  /static/vehicles/forester/
+uri: /vehicles/my12/FOR/ **********  /vehicles/my12/forester/
+uri: /vehicles/my12/FOR/25x/ **********  /vehicles/my12/forester25x/
+uri: /vehicles/my12/FOR/25xl/ **********  /vehicles/my12/forester25xl/
+uri: /vehicles/my12/FOR/25xp/ **********  /vehicles/my12/forester25xp/
+uri: /vehicles/my12/FOR/25xt/ **********  /vehicles/my12/forester25xt/
+uri: /vehicles/my12/FOR/25xtp/ **********  /vehicles/my12/forester25xtp/
+uri: /vehicles/my12/FOR/25xtt/ **********  /vehicles/my12/forester25xtt/
+uri: /vehicles/my12/OBK/ **********  /vehicles/my12/outback/
+uri: /vehicles/my12/WXR/wrxsti_5dr/ **********  /vehicles/my12/wrx/wrxsti_5dr/
+uri: /vehicles/my14/ **********  /vehicles/my13/
+uri: /vehicles/my14/LEG/photosvideos/colors360/ **********  /vehicles/my14/leg/photosvideos/360colors/
+uri: /vehicles/my14/OBK/photosvideos/colors360/ **********  /vehicles/my14/OBK/photosvideos/360colors/
+uri: /vehicles/my14/XV/photosvideos/colors360/ **********  /vehicles/my14/XV/photosvideos/360colors/
+uri: /vsp/features/BRZ/tech/small-image/automatic-climate-control/ **********  /vsp/features/BRZ/tech/small-image/front-engine/
+uri: /vsp/features/IMP/special/large-interactive/4-and-5-door/ **********  /vsp/features/IMP/large-interactive-only/4-and-5-door/
+uri: /vsp/features/XV/hybrid/small-image/responsibly-built/ **********  /vsp/features/XV/hybrid/small-image/responsibly-built - Copy/
+uri: /vsp/fma/TRI/live-love/ **********  /vsp/fma/TRI/trade live-love/
+numero de containers inicial: 4923
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\36rp\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\36rp\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\36rp\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\36rp\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\36rp\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\OBK\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\limited\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\premium\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\TRI\touring\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\limited\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\limited\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\limited\article.xml (The system cannot find the file specified)
+uri: /images/my10/WRX/premium/gallery/colorization/ **********  /images/my10/WRX/limited/gallery/colorization/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\gallery\colorization\article.xml (The system cannot find the file specified)
+uri: /images/my10/WRX/premium/gallery/exterior/ **********  /images/my10/WRX/limited/gallery/exterior/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\gallery\exterior\article.xml (The system cannot find the file specified)
+uri: /images/my10/WRX/premium/gallery/interior/ **********  /images/my10/WRX/limited/gallery/interior/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\gallery\interior\article.xml (The system cannot find the file specified)
+uri: /images/my10/WRX/premium/m_specialoffer_95x52/ **********  /images/my10/WRX/limited/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\premium\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\sti\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\360\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\360\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\gallery\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\gallery\exterior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\gallery\interior\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my10\WRX\wrx\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\360\exterior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\360\interior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\gallery\colorization\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\gallery\exterior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\gallery\interior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\360\exterior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\360\interior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\gallery\colorization\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\gallery\exterior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\gallery\interior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25ip_5dr\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\25i_5dr\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\outbacksport\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\sport\360\exterior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\sport\360\interior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\sport\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\sport\gallery\colorization\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\sport\gallery\exterior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\IMP\sport\gallery\interior\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\25gtl\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\25i\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\25il\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\25ip\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\36r\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\36rl\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\LEG\36rp\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25i\b_specialoffer_205x112\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25i\c_quote_280x145\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25i\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25il\b_specialoffer_205x112\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25il\c_quote_280x145\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25il\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25ip\b_specialoffer_205x112\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25ip\c_quote_280x145\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\25ip\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36r\b_specialoffer_205x112\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36r\c_quote_280x145\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36r\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rl\b_specialoffer_205x112\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rl\c_quote_280x145\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rl\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rp\b_specialoffer_205x112\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rp\c_quote_280x145\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\36rp\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\outback\360\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\outback\colorization\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\OBK\outback\article.xml (The system cannot find the file specified)
+uri: /images/my11/WRX/wrxl/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxlimited_4dr/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxl\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+uri: /images/my11/WRX/wrxl_5dr/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxlimited_5dr/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxl_5dr\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+uri: /images/my11/WRX/wrxp/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxpremium_4dr/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxp\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+uri: /images/my11/WRX/wrxp_5dr/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxpremium_5dr/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxp_5dr\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxstilimited\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+uri: /images/my11/WRX/wrxsti/m_specialoffer_95x52/ **********  /images/my11/WRX/wrxsti_4dr/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxsti\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrxsti_5dr\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+uri: /images/my11/WRX/wrx/m_specialoffer_95x52/ **********  /images/my11/WRX/wrx_4dr/m_specialoffer_95x52/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrx\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\my11\WRX\wrx_5dr\m_specialoffer_95x52\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\1995\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\1996\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\1997\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\1998\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\1999\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2000\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2001\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2002\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2003\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2004\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2005\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2006\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2007\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2008\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2009\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\mysubaruvehicles\2010\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\mountain\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\performance\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\professional\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\rally\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\snow\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\specialinterest\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\partnerlogos\water\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\comingsoon\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\default\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\icons\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\icons\date_picker\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\silhouette\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\tabs\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\site\tempimages\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\images\spt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\js\article.xml (The system cannot find the file specified)
+uri: /mobile/content/rotator/Special_Offers/ **********  /mobile/content/Special_Offers/
+uri: /mobile/content/vehicles/my11/legacy/compare/36rp/ **********  /mobile/content/vehicles/my11/legacy/compare/36rlp/
+uri: /mobile/content/vehicles/my12/legacy/compare/36rp/ **********  /mobile/content/vehicles/my12/legacy/compare/36rlp/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_1/ **********  /mobile/content/vehicles/my13/brz/accolades/acc1/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_2/ **********  /mobile/content/vehicles/my13/brz/accolades/acc2/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_3/ **********  /mobile/content/vehicles/my13/brz/accolades/acc3/
+uri: /mobile/content/vehicles/my13/brz/accolades/acc_4/ **********  /mobile/content/vehicles/my13/brz/accolades/acc4/
+uri: /mobile/content/vehicles/my13/forester/accolades/acc_1/ **********  /mobile/content/vehicles/my13/forester/accolades/acc1/
+uri: /mobile/content/vehicles/my13/forester/accolades/acc_2/ **********  /mobile/content/vehicles/my13/forester/accolades/acc2/
+uri: /mobile/content/vehicles/my13/forester/features/feature1/ **********  /mobile/content/vehicles/my13/forester/features/feature1 - Copy/
+uri: /mobile/content/vehicles/my13/forester/features/feature2/ **********  /mobile/content/vehicles/my13/forester/features/feature2 - Copy/
+uri: /mobile/content/vehicles/my13/legacy/accolades/acc_1/ **********  /mobile/content/vehicles/my13/legacy/accolades/acc1/
+uri: /mobile/content/vehicles/my13/legacy/accolades/acc_2/ **********  /mobile/content/vehicles/my13/legacy/accolades/acc2/
+uri: /mobile/content/vehicles/my13/outback/accolades/acc_1/ **********  /mobile/content/vehicles/my13/outback/accolades/acc1/
+uri: /mobile/content/vehicles/my13/outback/accolades/acc_2/ **********  /mobile/content/vehicles/my13/outback/accolades/acc2/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\mobile\content\vehicles\my13\outback\compare\36rp\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\mobile\content\vehicles\my13\tribeca\accolades\coming_soon\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\mobile\content\vehicles\my13\tribeca\compare\premium\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\mobile\content\vehicles\my13\tribeca\compare\touring\article.xml (The system cannot find the path specified)
+uri: /mobile/content/vehicles/my13/xvcrosstrek/accolades/acc_1/ **********  /mobile/content/vehicles/my13/xv-crosstrek/accolades/acc1/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/accolades/acc_2/ **********  /mobile/content/vehicles/my13/xv-crosstrek/accolades/acc2/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/compare/20il/ **********  /mobile/content/vehicles/my13/xv-crosstrek/compare/20il/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/compare/20ip/ **********  /mobile/content/vehicles/my13/xv-crosstrek/compare/20ip/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/ **********  /mobile/content/vehicles/my13/xv-crosstrek/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature1/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature1/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature2/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature2/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature3/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature3/
+uri: /mobile/content/vehicles/my13/xvcrosstrek/features/feature4/ **********  /mobile/content/vehicles/my13/xv-crosstrek/features/feature4/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_1/ **********  /mobile/content/vehicles/my14/brz/accolades/acc1/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_2/ **********  /mobile/content/vehicles/my14/brz/accolades/acc2/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_3/ **********  /mobile/content/vehicles/my14/brz/accolades/acc3/
+uri: /mobile/content/vehicles/my14/brz/accolades/acc_4/ **********  /mobile/content/vehicles/my14/brz/accolades/acc4/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\mobile\content\vehicles\my14\outback\compare\36rp\article.xml (The system cannot find the path specified)
+uri: /mysubaru/articles/zenkai motorsports/ **********  /mysubaru/articles/zenkai_motorsports/
+uri: /owners/ **********  /owners/index/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq1\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq10\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq11\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq12\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq13\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq14\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq15\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq16\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq17\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq18\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq19\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq2\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq20\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq21\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq22\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq3\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq4\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq5\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq6\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq7\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq8\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\electronics\electronics_mediahub_faq9\article.xml (The system cannot find the path specified)
+uri: /owners/resource-center/electronics/navigation/tomtom/ **********  /owners/resource-center/electronics/navigation/tomtom_audio_system/
+uri: /owners/resource-center/electronics/satellite/sirius-satellite/ **********  /owners/resource-center/electronics/satellite/sirius_satellite/
+uri: /owners/resource-center/electronics/satellite/xm-satellite/ **********  /owners/resource-center/electronics/satellite/xm_satellite/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\general\fma_escape\article.xml (The system cannot find the path specified)
+uri: /owners/resource-center/ **********  /owners/resource-center/index/
+uri: /owners/resource-center/vehicle_care_tips/posts/01162010_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/01162010_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/03052011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/03052011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/03212011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/03212011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/04082011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/04082011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/04202010_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/04202010_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/05122011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/05122011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/05232011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/05232011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/06022011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/06022011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/06122011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/06122011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/07142011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/07142011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/07152010_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/07152010_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/07302011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/07302011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/08102011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/08102011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/08252011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/08252011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/09182011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/09182011_0000/
+uri: /owners/resource-center/vehicle_care_tips/posts/10232011_0000/ **********  /owners/resource-center/vehicle-care-tips/posts/10232011_0000/
+uri: /owners/resource-center/New_folder/ **********  /owners/resource-center/vehicle-care-tips/posts/10232011_0001/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\owners\resource-center\New_folder\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\partners\slife\aids\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\partners\slife\veterinary\article.xml (The system cannot find the path specified)
+uri: /parts-service/ **********  /parts-service/index/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\proudhome\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\proudhome\ourproudhome\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ptp\article.xml (The system cannot find the path specified)
+uri: /publications/drive-performance/ **********  /publications/drive-perfomance/
+uri: /publications/ **********  /publications/index/
+uri: /rally/posts/07172010-0000/ **********  /rally/posts/07172010_0000/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\rally\posts\07172010-0000\article.xml (The system cannot find the path specified)
+uri: /rally/posts/07272011_060000/ **********  /rally/posts/07272011_160000/
+uri: /rally/static/sponsors/ **********  /rally/static/sposors/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\rally\static\standings_1\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\rally\static\standings_2\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\rally\static\standings_3\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\rally\static\standings_4\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\rally\static\standings_5\article.xml (The system cannot find the path specified)
+uri: /ratingreview/motortrend/12imp/ **********  /ratingreview/awards/motortrend/12imp/
+uri: /ratingreview/awards/polk/polk_imp/11imp/ **********  /ratingreview/awards/polk/polk_imp//11imp/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ratingreview\car_and_driver\13brz\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ratingreview\motortrend\13brz\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ratingreview\motortrend\13brz_vs_ford_focus\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ratingreview\polk\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ratingreview\road_and_track\13brz\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\ratingreview\wall_street_review\13brz\article.xml (The system cannot find the path specified)
+uri: /specials/national_finance_my13_xv/ **********  /specials/national_finance_my14_xv/
+uri: /static/2009award/ **********  /static/archive/2009award/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\2009award\article.xml (The system cannot find the file specified)
+uri: /static/2009award/css/ **********  /static/archive/2009award/css/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\2009award\css\article.xml (The system cannot find the file specified)
+uri: /static/2009award/images/ **********  /static/archive/2009award/images/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\2009award\images\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\archive\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\article.xml (The system cannot find the path specified)
+uri: /static/vehicles/legacy/ **********  /static/vehicles/forester/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\legacy\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\impreza-wrx\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\impreza\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\legacy\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\outback\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\static\vehicles\tribeca\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\forester_landing\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\imprezawrx_landing\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\impreza_landing\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\legacyconcept\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\legacy_landing\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\mediaplayer\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\outback_detergent\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\outback_landing\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\salesevent\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\salesevent\images\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\salesevent\xml\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\sharethelove\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\swf\tribeca_landing\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\system\email\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\templates\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\global\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my00\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my01\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my02\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my03\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my04\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my05\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my06\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my07\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my08\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\forester\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\forester25x\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\forester25xl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\forester25xp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\forester25xt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\forester25xtl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\impreza\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\impreza25gt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\impreza25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\impreza25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\imprezaoutbacksport\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\imprezawrx\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\imprezawrxpremium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\imprezawrxsti\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy25gtl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy25gtspecb\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy25ise\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy30r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\legacy30rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\outback\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\outback25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\outback25ilimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\outback25ise\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\outback25xtlimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\outback30rlimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\tribeca\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\tribecalimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\tribecase\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my09\tribecatribeca\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\forester\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\forester25x\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\forester25xl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\forester25xp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\forester25xtl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\forester25xtp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\impreza\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\impreza25gt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\impreza25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\impreza25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\imprezaoutbacksport\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\imprezawrx\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\imprezawrxlimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\imprezawrxpremium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\imprezawrxsti\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\imprezawrxstise\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy25gtl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy25gtp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\legacy36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\outback36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\tribeca\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\tribecalimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\tribecapremium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my10\tribecatouring\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25x\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25xl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25xp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25xt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25xtl\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25xtp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\forester25xtt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\impreza\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\impreza25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\impreza25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\impreza25ip_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\impreza25i_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezaoutbacksport\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrx\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxlimited_4dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxlimited_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxpremium_4dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxpremium_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxstilimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxsti_4dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrxsti_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrx_4dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\imprezawrx_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy25gtl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy25gtp\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\legacy36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\outback36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\tribeca\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\tribecalimited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\tribecapremium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my11\tribecatouring\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25x\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xtp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xtt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/ **********  /vehicles/my12/forester/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/25x/ **********  /vehicles/my12/forester25x/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25x\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/25xl/ **********  /vehicles/my12/forester25xl/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xl\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/25xp/ **********  /vehicles/my12/forester25xp/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xp\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/25xt/ **********  /vehicles/my12/forester25xt/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xt\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/25xtp/ **********  /vehicles/my12/forester25xtp/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xtp\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/FOR/25xtt/ **********  /vehicles/my12/forester25xtt/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\FOR\25xtt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20il_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20ip_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20isl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20isp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\20i_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\IMP\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\25gtl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\36rp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\LEG\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\36rp\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/OBK/ **********  /vehicles/my12/outback/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\OBK\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\TRI\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\TRI\limited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\TRI\premium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\TRI\touring\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrx\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrxl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrxl_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrxp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrxp_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrxsti\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrxstil\article.xml (The system cannot find the file specified)
+uri: /vehicles/my12/WXR/wrxsti_5dr/ **********  /vehicles/my12/wrx/wrxsti_5dr/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WXR\wrxsti_5dr\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my12\WRX\wrx_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\BRZ\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\BRZ\limited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\BRZ\premium\article.xml (The system cannot find the file specified)
+uri: /vehicles/my14/ **********  /vehicles/my13/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\25x\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\25xl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\25xp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\25xt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\25xtp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\25xtt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\FOR\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20il_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20ip_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20isl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20isp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\20i_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\IMP\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\25is\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\LEG\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\OBK\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\OBK\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\OBK\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\OBK\36r\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\OBK\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\OBK\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\TRI\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\TRI\limited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrx\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxl_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxp_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxsti\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxstil\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrxsti_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\WRX\wrx_5dr\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\XV\20il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\XV\20ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my13\XV\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\BRZ\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\BRZ\limited\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\BRZ\premium\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\20xtp\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\20xtt\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\25it\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\FOR\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\25is\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\36r\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\LEG\article.xml (The system cannot find the file specified)
+uri: /vehicles/my14/LEG/photosvideos/colors360/ **********  /vehicles/my14/leg/photosvideos/360colors/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\OBK\25i\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\OBK\25il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\OBK\25ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\OBK\36rl\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\OBK\article.xml (The system cannot find the file specified)
+uri: /vehicles/my14/OBK/photosvideos/colors360/ **********  /vehicles/my14/OBK/photosvideos/360colors/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\TRI\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\WRX\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\XV\20il\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\XV\20ip\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my14\XV\article.xml (The system cannot find the file specified)
+uri: /vehicles/my14/XV/photosvideos/colors360/ **********  /vehicles/my14/XV/photosvideos/360colors/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my95\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my96\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my97\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my98\article.xml (The system cannot find the file specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vehicles\my99\article.xml (The system cannot find the file specified)
+uri: /vsp/features/BRZ/tech/small-image/automatic-climate-control/ **********  /vsp/features/BRZ/tech/small-image/front-engine/
+uri: /vsp/features/IMP/special/large-interactive/4-and-5-door/ **********  /vsp/features/IMP/large-interactive-only/4-and-5-door/
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\large-interactive\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\large-slideshow\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\OBK\tech\small-image\rear-vision-camera\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\AWD\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\fuel_efficiency\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\ground_capability\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\power_moonroof\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\PZEV\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\storage_space\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-image\XV\upholstery\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\small-slideshow\article.xml (The system cannot find the path specified)
+EXCEPTION ERROR:  C:\CARMICHAEL\site_opt\content\current\public\vsp\features\text-only\article.xml (The system cannot find the path specified)
+uri: /vsp/features/XV/hybrid/small-image/responsibly-built/ **********  /vsp/features/XV/hybrid/small-image/responsibly-built - Copy/
+uri: /vsp/fma/TRI/live-love/ **********  /vsp/fma/TRI/trade live-love/
+numero de container events: 0
+numero de containers inicial: 4923
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\buildyourown\viewer.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\buildyourown\vehicles.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\0_cms\cms_search.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\0_cms\cms_iframe.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\vsp\vehicle-view-container.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\vsp\vehicle-view-container.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\vsp\vehicle-view-container.html.mtl
+COMPONENTE_USO_Y_NO_USO not in use total : 0
+COMPONENTE_USO_Y_NO_USO  in use total : 652
+Se eliminaron componentes: 0
+COMPONENTES_Deleated not in use total : 0 de un total de :652
+numero de componentes after deleated: 652
+COMPONENTE_USO not in use total : 0
+COMPONENTE_USO  in use total : 652
+CONTAINERS_USO_Y_NO_USO not in use total : 3123
+CONTAINERS_USO_Y_NO_USO  in use total : 1800
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\form-scheduleTestDrive ....... form-scheduleTestDrive.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\form-infoSignUp ....... form-infoSignUp.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\omniture ....... omniture.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\coupons ....... coupons_html.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\form-contactUs ....... form-contactUs.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\non-english ....... chinese.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\breadcrumb ....... breadcrumb.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\searchpagenation ....... searchpagenation.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\media-gallery ....... subaru-media-gallery.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\google ....... form-hidden-set-dealer.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\metadata ....... metadata.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\2a ....... 2a-article.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\sitemap ....... sitemap.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\1b ....... 1b.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\css ....... messageCSS.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\0_924_form ....... find_dealer_main.mtl
+linea: 8 - texto find_dealer_main.mtl encontrado en:C:\CARMICHAEL\site_opt\content\current\private\components\0_924_form\find_dealer_main.mtl
+linea: 81 - texto find_dealer_main.mtl encontrado en:C:\CARMICHAEL\site_opt\content\current\private\components\0_924_form\find_dealer_main.mtl
+numero no existentePath: 563
+numero existentes vacios: 0
+numero existentes con datos: 4360
+Se eliminaron containers: 2566
+CONTAINERS_Deleated not in use total : 2566 de un total de :4360
+CONTAINERS_USO not in use total : 0
+CONTAINERS_USO  in use total : 1794
+ENDING at: Fri Oct 25 16:05:20 CST 2013

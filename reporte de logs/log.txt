@@ -1,0 +1,45 @@
+STARTING at: Fri Oct 18 11:22:22 CST 2013
+numero de componentes inicial: 883
+numero de containers inicial: 4922
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\buildyourown\viewer.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\buildyourown\vehicles.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\0_cms\cms_search.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\0_cms\cms_iframe.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\vsp\vehicle-view-container.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\vsp\vehicle-view-container.html.mtl
+EXCEPTION ERROR PTP:  C:\CARMICHAEL\site_opt\content\current\private\components\vsp\vehicle-view-container.html.mtl
+COMPONENTE_USO_Y_NO_USO not in use total : 231
+COMPONENTE_USO_Y_NO_USO  in use total : 652
+Se eliminaron componentes: 231
+COMPONENTES_Deleated not in use total : 231 de un total de :883
+numero de componentes after deleated: 652
+COMPONENTE_USO not in use total : 0
+COMPONENTE_USO  in use total : 652
+CONTAINERS_USO_Y_NO_USO not in use total : 3755
+CONTAINERS_USO_Y_NO_USO  in use total : 1167
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\form-scheduleTestDrive ....... form-scheduleTestDrive.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\form-infoSignUp ....... form-infoSignUp.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\omniture ....... omniture.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\coupons ....... coupons_html.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\form-contactUs ....... form-contactUs.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\non-english ....... chinese.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\breadcrumb ....... breadcrumb.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\searchpagenation ....... searchpagenation.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\media-gallery ....... subaru-media-gallery.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\google ....... form-hidden-set-dealer.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\metadata ....... metadata.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\2a ....... 2a-article.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\sitemap ....... sitemap.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\1b ....... 1b.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\css ....... messageCSS.html.mtl
+folder with 1 filecontainer: C:\CARMICHAEL\site_opt\content\current\private\components\0_924_form ....... find_dealer_main.mtl
+linea: 8 - texto find_dealer_main.mtl encontrado en:C:\CARMICHAEL\site_opt\content\current\private\components\0_924_form\find_dealer_main.mtl
+linea: 81 - texto find_dealer_main.mtl encontrado en:C:\CARMICHAEL\site_opt\content\current\private\components\0_924_form\find_dealer_main.mtl
+numero no existentePath: 649
+numero existentes vacios: 15
+numero existentes con datos: 4258
+Se eliminaron containers: 3125
+CONTAINERS_Deleated not in use total : 3125 de un total de :4258
+CONTAINERS_USO not in use total : 0
+CONTAINERS_USO  in use total : 1133
+ENDING at: Fri Oct 18 11:22:47 CST 2013
